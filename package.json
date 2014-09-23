@@ -1,0 +1,12 @@
+{
+  "name": "adventure",
+  "version": "1.0.0",
+  "description": "A JavaScript text adventure",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "prompt-sync": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node ./bin/play"
+  }
+}
