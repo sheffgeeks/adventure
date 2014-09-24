@@ -26,11 +26,11 @@ Co-ordinates system
     [_____] [_____] [_____] [_____] [_____]
 
 
-Defining a scene
-----------------
+Defining a tile
+---------------
 
 Player API
 ----------
 
-Actions API
------------
+Adding vocabulary
+-----------------
