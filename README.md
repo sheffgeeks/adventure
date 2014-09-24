@@ -1,6 +1,11 @@
 Text Adventure!
 ===============
 
+To play
+-------
+
+Install dependencies using `npm install`, then run using `./bin/play`.
+
 Co-ordinates system
 -------------------
 
@@ -73,3 +78,10 @@ function exported by tiles has words normalised using a list. For example,
 easier to match against.
 
 You can add synonyms for more words to this list by editing `lib/words.js`.
+
+Thanks
+------
+
+This code is heavily inspired by the Python version used at a Python
+Sheffield meetup a couple of years ago. You can find the original python
+code here: https://github.com/gistfoundation/adventuregame-pysheff
