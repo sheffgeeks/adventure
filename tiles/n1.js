@@ -1,12 +1,12 @@
 exports.shortDescription = function (player) {
     // to the north you see...
-    return 'a bouncy castle';
+    return "a winding path";
 };
 
-exports.longDescription = function (player) {
-    return 'You step onto a bouncy castle. It is very bouncy.';
+exports.describe = function (player) {
+    console.log("The path winds through dense forest.");
 };
 
 exports.action = function (player, action) {
-    console.log('Bouncy castle: ' + action.join(', '));
+    console.log("Sorry, I don't understand");
 };
