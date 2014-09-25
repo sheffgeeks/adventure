@@ -59,6 +59,11 @@ The player object has the following properties:
 * __name__ - the name entered by the player at the start
 * __location__ - the location of the player, eg. 'start' or 's2w1'
 * __inventory__ - a javascript object mapping item names to a count
+* __increaseHealth__ - Increase the players health
+* __depleteHealth__ - Deplete the players health
+* __increaseHydration__ - Increase the players hydration
+* __depleteHydration__ - Deplete the players hydration
+* __kill__ - Kill the player
 
 There are also the following functions available:
 
