@@ -16,5 +16,5 @@ exports.describe = function (player) {
 };
 
 exports.action = function (player, action) {
-
+    console.log("Nothing happens.");
 };
