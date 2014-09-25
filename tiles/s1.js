@@ -41,7 +41,7 @@ exports.action = function (player, action) {
 }
 
 function pickUpKey(player) {
-  if (scene.contents["golden key"] > 0) {
+  if (scene_contents["golden key"] > 0) {
       if (!player.inventory["golden key"]) {
           player.inventory["golden key"] = 1;
       }
