@@ -57,4 +57,3 @@ function pickUpKey(player) {
         console.log("You already collected the golden key.")
     }
   }
-};
