@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A JavaScript text adventure",
   "dependencies": {
+    "ansi-rainbow": "0.0.8",
     "lodash": "^2.4.1",
     "prompt-sync": "^1.0.0"
   },
