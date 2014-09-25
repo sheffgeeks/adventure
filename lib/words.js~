@@ -12,9 +12,5 @@ module.exports = {
     south: ['s', 'south'],
     west: ['w', 'west'],
     east: ['e', 'east'],
-    quit: ['quit', 'exit'],
-    type: ['type', 'input'],
-    key: ['key'],
-    pc: ['pc', 'computer', 'amstrad'],
-
+    quit: ['quit', 'exit']
 };
